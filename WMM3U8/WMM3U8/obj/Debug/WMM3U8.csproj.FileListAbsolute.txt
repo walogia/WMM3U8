@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\WMM3U8\WMM3U8\bin\Debug\WMM3U8.exe.config
+C:\Users\Administrator\Desktop\WMM3U8\WMM3U8\bin\Debug\WMM3U8.exe
+C:\Users\Administrator\Desktop\WMM3U8\WMM3U8\bin\Debug\WMM3U8.pdb
+C:\Users\Administrator\Desktop\WMM3U8\WMM3U8\obj\Debug\WMM3U8.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WMM3U8\WMM3U8\obj\Debug\WMM3U8.MainForm.resources
+C:\Users\Administrator\Desktop\WMM3U8\WMM3U8\obj\Debug\WMM3U8.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WMM3U8\WMM3U8\obj\Debug\WMM3U8.exe
+C:\Users\Administrator\Desktop\WMM3U8\WMM3U8\obj\Debug\WMM3U8.pdb
